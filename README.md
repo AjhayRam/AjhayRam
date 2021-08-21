@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Walkbot project**
 
-- 🌱 I’m currently learning **Data sciet, data Analytics and Machine Learning**
+- 🌱 I’m currently learning **Data science, data Analytics and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Intelligence on automation**
 
