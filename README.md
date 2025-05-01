@@ -9,7 +9,8 @@
 - 🤝 Looking for help with: **Database creation for helath based software**
 - 💬 Ask me about: **Data dashboards, Business process, Business Flows and ML workflows**
 - 📫 Reach me: **ajhayram7@gmail.com**
-- 👨‍💻 Portfolio: [LinkedIn](https://www.linkedin.com/in/ajhay-ram-5761711b8)
+- 👨‍💻 My social Profile: [LinkedIn](https://www.linkedin.com/in/ajhay-ram-5761711b8)
+- 👨‍💻 My Portfolio: [Portfolio'](https://ajhayram.github.io/My_Portfolio/)
 - 📄 Experience: **Data Analyst at JSW**
 
 ---
